@@ -1,0 +1,15 @@
+python-telegram-bot
+pybit
+yfinance
+alpaca-py
+finnhub-python
+pandas
+numpy
+pandas-ta
+scikit-learn
+joblib
+APScheduler
+pytz
+python-dotenv
+requests
+colorlog
